@@ -1,0 +1,31 @@
+.navbar{
+    background-color: #DEB3AA;
+}
+
+.quem-somos{
+    background-color: #ccc8fd;
+    color: #4d4c4c;
+   
+}
+
+.margin{
+        padding-bottom: 40px;
+        padding-top: 10px;
+        }
+
+.time {
+    margin-bottom: 50px;
+    font-size: 23px;
+}
+
+.parceiros{
+    background-color:#D6DBDF;
+}
+
+.et {
+    width: 100px;
+}
+
+.bg-footer {
+    background-color: rgba(211, 211, 211, 0.397);
+}
